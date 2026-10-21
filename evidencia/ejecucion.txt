@@ -1,0 +1,45 @@
+
+=== INICIANDO MOTOR DE DATOS ===
+Demostracion academica: usa solo datos ficticios. La ofuscacion no protege informacion clinica.
+
+Presiona Enter para continuar...
+=== SISTEMA MEDICO MULTIMEDIA ===
+1. Registrar paciente
+2. Buscar paciente rapido
+3. Ver estadisticas de paciente
+4. Cargar multimedia manual
+5. Asignar lote multimedia sintetico
+6. Eliminar multimedia
+7. Visualizar archivo
+0. Salir y guardar
+Opcion: 
+--- REGISTRAR PACIENTE ---
+Ingrese DNI (8 digitos) [0 para cancelar]: Nombre [0 para cancelar]: Telefono [0 para cancelar]: >> Se registro el paciente correctamente.
+
+Presiona Enter para continuar...
+=== SISTEMA MEDICO MULTIMEDIA ===
+1. Registrar paciente
+2. Buscar paciente rapido
+3. Ver estadisticas de paciente
+4. Cargar multimedia manual
+5. Asignar lote multimedia sintetico
+6. Eliminar multimedia
+7. Visualizar archivo
+0. Salir y guardar
+Opcion: 
+--- BUSCAR PACIENTE RAPIDO ---
+Ingrese DNI (8 digitos) [0 para cancelar]: >> Paciente encontrado: Paciente de prueba - Tel: 000000000
+
+Presiona Enter para continuar...
+=== SISTEMA MEDICO MULTIMEDIA ===
+1. Registrar paciente
+2. Buscar paciente rapido
+3. Ver estadisticas de paciente
+4. Cargar multimedia manual
+5. Asignar lote multimedia sintetico
+6. Eliminar multimedia
+7. Visualizar archivo
+0. Salir y guardar
+Opcion: 
+Guardando datos y asegurando boveda en disco...
+>> Datos guardados exitosamente. Cerrando sistema...

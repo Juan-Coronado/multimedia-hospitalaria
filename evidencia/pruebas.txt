@@ -1,0 +1,1 @@
+Hospital: 300 pacientes; invariantes rojo-negro, carga real PNG, hash, trie, persistencia y archivo corrupto comprobados.
